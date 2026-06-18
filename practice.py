@@ -25,3 +25,4 @@ result = model.invoke(query)
 new = result.content
 new
 
+#updated
