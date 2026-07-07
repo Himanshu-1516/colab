@@ -44,7 +44,7 @@ model = ChatGroq(
 # ========================================
 import faiss
 import numpy as np
-
+#lass matlab ek box (container). Us box ke andar hum related cheezein rakhte hain.  bag ke andr notebbok, pencil, pen
 class SemanticCache:
     def __init__(self, embeddings_model, threshold=0.85):
         self.embeddings = embeddings_model
